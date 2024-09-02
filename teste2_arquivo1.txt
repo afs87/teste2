@@ -1,1 +1,4 @@
 Arquivo editado pelo github.
+
+Nova versão editada no git local.
+Versão 3
